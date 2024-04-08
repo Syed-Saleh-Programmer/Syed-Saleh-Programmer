@@ -40,6 +40,13 @@
   - Flowcharts
   - Data Structures and Algorithms
 
+<!-- Services I Offer -->
+## 💼 Services I Offer
+- Custom Web Development (Html, Css, Javascript, React)
+- Email Development
+- MVP and Prototype Development
+- Webflow and Framer Website Development
+
 <!-- Contact Details -->
 ## 📧 Contact Details
 - Email: [![contact.syedsaleh@gmail.com](https://img.shields.io/badge/Email-contact.syedsaleh%40gmail.com-green)](mailto:contact.syedsaleh@gmail.com)
