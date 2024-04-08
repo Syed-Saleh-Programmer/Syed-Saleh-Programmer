@@ -24,8 +24,21 @@
 
 <!-- Skills -->
 ## 💻 Skills
-- Programming Languages: Html5, Css3, Javascript, ES-6, Vanilla Javascript, React, C++
-- Others: Object Oriented Programming, Microsoft Access, Oracle Database, Microsoft PowerPoint, Flowcharts, Data Structures and Algorithms
+- Programming Languages:
+  - Html5
+  - Css3
+  - Javascript
+  - ES-6
+  - Vanilla Javascript
+  - React
+  - C++
+- Others:
+  - Object Oriented Programming
+  - Microsoft Access
+  - Oracle Database
+  - Microsoft PowerPoint
+  - Flowcharts
+  - Data Structures and Algorithms
 
 <!-- Contact Details -->
 ## 📧 Contact Details
