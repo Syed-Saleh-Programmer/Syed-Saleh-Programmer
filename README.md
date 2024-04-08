@@ -1,6 +1,7 @@
 <!-- Name and Profession -->
 <h1 align="center">👨‍💻 Syed Muhammad Saleh</h1>
 <h3 align="center" style="color:blue;">Software Engineer</h3>
+<p align="center">I'm Syed Muhammad Saleh, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Web Development, Artificial Intelligence, and Robotics. I specialize in creating bespoke websites and innovative email solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
 
 <!-- Education -->
 ## 📚 Education
