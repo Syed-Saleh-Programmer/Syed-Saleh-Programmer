@@ -10,10 +10,17 @@
 ## 💼 Portfolio Website
 - [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green)](https://rizvisoft.netlify.app)
 
-<!-- Interests and Hobbies -->
-## 🎯 Interests and Hobbies
-- Interests: <span style="background-color:yellow;">Web Development</span>, <span style="background-color:yellow;">Artificial Intelligence</span>, <span style="background-color:yellow;">Robotics</span>
-- Hobbies: Coding, Playing Volleyball, DIY Robotics
+<!-- Interests -->
+## 🎯 Interests
+- Web Development
+- Artificial Intelligence
+- Robotics
+
+<!-- Hobbies -->
+## 🛠️ Hobbies
+- Coding
+- Playing Volleyball
+- DIY Robotics
 
 <!-- Skills -->
 ## 💻 Skills
