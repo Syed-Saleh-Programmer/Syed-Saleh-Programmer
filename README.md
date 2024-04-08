@@ -25,7 +25,7 @@
 
 <!-- Skills -->
 ## 💻 Skills
-- <span style="color:green">Programming Languages</span>:
+<span style="color:green; font-size:17px;">- Programming Languages</span>:
   - Html5
   - Css3
   - Javascript
