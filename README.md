@@ -25,7 +25,7 @@
 
 <!-- Skills -->
 ## 💻 Skills
-- <span style="color:green; font-size:17px;">Programming Languages</span>:
+- <h3 style="color:green;">Programming Languages</h3>:
   - Html5
   - Css3
   - Javascript
@@ -33,7 +33,7 @@
   - Vanilla Javascript
   - React
   - C++
-- <span style="color:green">Others</span>:
+- <h3 style="color:green;">Others</h3>:
   - Object Oriented Programming
   - Microsoft Access
   - Oracle Database
