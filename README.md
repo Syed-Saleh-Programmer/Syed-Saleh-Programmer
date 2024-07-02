@@ -5,7 +5,7 @@
 
 <!-- Education -->
 ## 📚 Education
-- Undergraduate in Software Engineering from [![Air University Islamabad](https://img.shields.io/badge/Air%20University-Islamabad-green)](https://au.edu.pk)
+- Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/Air%20University-Islamabad-green)](https://au.edu.pk)
 
 <!-- Portfolio Website -->
 ## 💼 Portfolio Website
