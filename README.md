@@ -35,6 +35,9 @@
 
 
 - Others:
+  - Software Development Life Cycle (SDLC)
+  - Requirements Engineering
+  - Software Design (Diagramming)
   - Object Oriented Programming
   - Microsoft Access
   - Oracle Database
@@ -45,9 +48,9 @@
 <!-- Services I Offer -->
 ## 💼 Services I Offer
 - Custom Web Development (Html, Css, Javascript, React)
-- Email Development
-- MVP and Prototype Development
 - Webflow and Framer Website Development
+- MVP and Prototype Development
+- Email Development
 
 ## 🛠️Tools I Use:
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
