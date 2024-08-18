@@ -20,13 +20,20 @@
 <!-- Skills -->
 ## 💻 Skills
 - Programming Languages:
-  - Html5
-  - Css3
-  - Javascript
-  - ES-6
-  - Vanilla Javascript
-  - React
-  - C++
+  
+  <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius: 50%;">
+  </div>
+
+  <div>
+     <b> HTML &nbsp&nbsp CSS &nbsp JavaScript &nbsp React &nbsp C++ </b>
+  </div>
+
+
 - Others:
   - Object Oriented Programming
   - Microsoft Access
@@ -46,15 +53,14 @@
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" alt="GitHub" width="50" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 50%;">
     <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://user-images.githubusercontent.com/66253840/120905536-9c910080-c656-11eb-91db-d73d1b394f5f.png" alt="Chrome Dev Tools" width="50" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="border-radius: 50%;">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Powershell" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="" width="150" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" style="border-radius: 50%;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 50%;">
 </div>
