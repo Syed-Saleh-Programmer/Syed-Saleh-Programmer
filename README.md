@@ -1,7 +1,7 @@
 <!-- Name and Profession -->
 <h1 align="center">👨‍💻 Syed Muhammad Saleh</h1>
 <h3 align="center" style="color:blue;">Software Engineer</h3>
-<p align="center">I'm Syed Muhammad Saleh, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Web Development, Artificial Intelligence, and Robotics. I specialize in creating bespoke websites and innovative email solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
+<p align="center">I'm Syed Muhammad Saleh, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Web Development, Artificial Intelligence, and IoT (Internet Of Things) I specialize in crafting bespoke websites and innovative SaaS Solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
 
 <!-- Education -->
 ## 📚 Education
@@ -15,13 +15,7 @@
 ## 🎯 Interests
 - Web Development
 - Artificial Intelligence
-- Robotics
-
-<!-- Hobbies -->
-## 🛠️ Hobbies
-- Coding
-- Playing Volleyball
-- DIY Robotics
+- Robotics ( IoT )
 
 <!-- Skills -->
 ## 💻 Skills
@@ -48,6 +42,12 @@
 - MVP and Prototype Development
 - Webflow and Framer Website Development
 
+<!-- Hobbies -->
+## 🛠️ Hobbies
+- Coding
+- Playing Volleyball
+- DIY Robotics
+
 <!-- Contact Details -->
 ## 📧 Contact Details
 - Email: [![contact.syedsaleh@gmail.com](https://img.shields.io/badge/Email-contact.syedsaleh%40gmail.com-green)](mailto:contact.syedsaleh@gmail.com)
@@ -60,5 +60,5 @@
 
 <!-- Thank you message -->
 ## 🙏 Thanks For Visiting
-<span style="font-size:18px;">Regards,  
+<span style="font-size:18px; font-weight:bold">Regards,  
 Syed Muhammad Saleh</span>
