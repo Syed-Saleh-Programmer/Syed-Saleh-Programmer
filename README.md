@@ -1,90 +1,24 @@
-<!-- Name and Profession -->
-<h1 align="center">👨‍💻 Syed Muhammad Saleh</h1>
-<h3 align="center" style="color:blue;">Software Engineer</h3>
-<p align="center">I'm Syed Muhammad Saleh, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Web Development, Artificial Intelligence, and IoT (Internet Of Things) I specialize in crafting bespoke websites and innovative SaaS Solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!</p>
+# 💫 Who's Syed Muhammad Saleh?
+I'm Syed Muhammad Saleh, a proactive Software Engineering student at Air University Islamabad, driven by a passion for Web Development, Artificial Intelligence, and IoT (Internet Of Things) I specialize in crafting bespoke websites and innovative SaaS Solutions, always eager to collaborate with fellow innovators. Let's connect on LinkedIn and bring our ideas to life!
 
-<!-- Education -->
-## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/Air%20University-Islamabad-green)](https://au.edu.pk)
 
-<!-- Portfolio Website -->
-## 💼 Portfolio Website
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green)](https://rizvisoft.netlify.app)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_saleh.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-muhammad-saleh-rizvi/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RizviSoft) 
 
-<!-- Interests -->
-## 🎯 Interests
-- Web Development
-- Artificial Intelligence
-- Robotics ( IoT )
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Syed-Saleh-Programmer&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Saleh-Programmer&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Saleh-Programmer&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Skills -->
-## 💻 Skills
-###  Programming Languages:
-  <br>
-  <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius: 50%;">
-  </div>
+### ✍️ Todays Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <div>
-     <b> HTML &nbsp&nbsp CSS &nbsp JavaScript &nbsp React &nbsp C++ </b>
-  </div>
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Syed-Saleh-Programmer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Others:
-  - Software Development Life Cycle (SDLC)
-  - Requirements Engineering
-  - Software Design (Diagramming)
-  - Object Oriented Programming
-  - Microsoft Access
-  - Oracle Database
-  - Microsoft PowerPoint
-  - Flowcharts
-  - Data Structures and Algorithms
+---
+[![](https://visitcount.itsvg.in/api?id=Syed-Saleh-Programmer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Services I Offer -->
-## 💼 Services I Offer
-- Custom Web Development (Html, Css, Javascript, React)
-- Webflow and Framer Website Development
-- MVP and Prototype Development
-- Email Development
-
-## 🛠️Tools I Use:
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" alt="GitHub" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Powershell" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="" width="150" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" style="border-radius: 50%;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 50%;">
-</div>
-
-<!-- Hobbies -->
-## 🛠️ Hobbies
-- Coding
-- Playing Volleyball
-- DIY Robotics
-
-<!-- Contact Details -->
-## 📧 Contact Details
-- Email: [![contact.syedsaleh@gmail.com](https://img.shields.io/badge/Email-contact.syedsaleh%40gmail.com-green)](mailto:contact.syedsaleh@gmail.com)
-- LinkedIn: [![Syed Muhammad Saleh Rizvi](https://img.shields.io/badge/LinkedIn-Syed%20Muhammad%20Saleh%20Rizvi-green)](https://www.linkedin.com/in/syed-muhammad-saleh-rizvi)
-
-<!-- Hire me at -->
-## 💼 Hire me at
-- Upwork: [![Syed Muhammad Saleh on Upwork](https://img.shields.io/badge/Upwork-Syed%20Muhammad%20Saleh-green)](https://www.upwork.com/freelancers/~01227483e76bdf54df)
-- Fiverr: [![Syed Muhammad Saleh on Fiverr](https://img.shields.io/badge/Fiverr-Syed%20Muhammad%20Saleh-green)](https://www.fiverr.com/smsaleh199)
-
-<!-- Thank you message -->
-## 🙏 Thanks For Visiting
-<span style="font-size:18px; font-weight:bold">Regards,  
-Syed Muhammad Saleh</span>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
